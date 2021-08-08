@@ -1,4 +1,4 @@
-# Recommendations-with-IBM
+# Recommendations with IBM
 
 Recommendation engine with Watson Studio data from IBM as a part of Data Science Nanodegree by Udacity. The objective of the project is to analyze the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles .
 
